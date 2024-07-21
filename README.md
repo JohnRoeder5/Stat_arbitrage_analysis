@@ -14,3 +14,7 @@
 
  Stationarity: 
  https://github.com/JohnRoeder5/Stat_arbitrage_analysis/blob/main/images/ADF_Z_score.png
+
+ Example of trade signals and portfolio pnl: 
+ https://github.com/JohnRoeder5/Stat_arbitrage_analysis/blob/main/images/pnl_tradesignals.png
+ 
