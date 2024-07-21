@@ -1,6 +1,6 @@
 # Stat_arbitrage_analysis
 
- Statistical arbitrage paris trading strategy:
+  Analysis of pairs for potential pairs trading strategies:
   1. find the correlation between stocks. need to be in similar markets and need to be cointegrated
   2. determine stationarity
   3. determine threshold (z-score)
